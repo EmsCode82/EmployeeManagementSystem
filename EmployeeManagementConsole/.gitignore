@@ -1,0 +1,16 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio build output
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Ignore Visual Studio Code settings (if applicable)
+.vscode/
